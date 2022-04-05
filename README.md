@@ -1,4 +1,4 @@
 # aulasalgoritimo2022
 aulasalgoritimo2022
-projeto dialugo scretch https://scratch.mit.edu/projects/663807209
-projeto movimento scretch https://scratch.mit.edu/projects/671436051
+<p>projeto dialugo scratch https://scratch.mit.edu/projects/663807209</p>
+projeto movimento scratch https://scratch.mit.edu/projects/671436051
