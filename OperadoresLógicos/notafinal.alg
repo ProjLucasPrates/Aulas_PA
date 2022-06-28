@@ -1,6 +1,6 @@
 algoritmo "Notafinal"
 // Função : Calcular a média
-// Autor : David.S
+// Autor : Lucas Ramalho Ramalho
 // Data : 28/06/2022
 // Seção de Declarações
 var
