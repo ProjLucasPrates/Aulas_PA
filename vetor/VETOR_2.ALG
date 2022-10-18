@@ -1,4 +1,7 @@
 Algoritmo "vetor"
+// Disciplina   : [Linguagem e Lógica de Programação] 
+// Professor   : Antonio Carlos Nicolodi
+// aluno : Lucas, Laura, Ana Laura
 // Criar um vetor que receba 10 num int digitados pelo usu
 
 

@@ -1,7 +1,7 @@
 Algoritmo "vetor"
 // Disciplina   : PA
 // Descri??o   :
-// Autor(a)    : Sarah e Kaike
+// Autor(a)    : Lucas, Laura, Ana Laura
 // Data atual  : 18/10/2022
 Var
 nomes: vetor [0..15] de caractere
